@@ -1,5 +1,5 @@
 # tretzet
-txt file in html 
+
 2024-05-24 09:45:13 Tanácsadó:
 Otp direktből indított utalás esetén az utalási költség, bankon kívül, belföldre ft-ban: 0,35% (min. 321 Ft/ max. 14 522 Ft).
 Tehát 25 millió ft esetében 14522 Ft
